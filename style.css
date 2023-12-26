@@ -30,14 +30,12 @@ body{
    margin-top: 5px;
     background-image: url(personal-website/header-bg.png);
     background-repeat: no-repeat;
-}
-section{
     height: 870px;
-    
 }
 .middlebanner{
     background-image: url(personal-website/biography-bg.png);
     background-repeat: no-repeat;
+    height: 870px;
 }
 .mywork{
     width: 100%;
@@ -66,17 +64,13 @@ section{
     max-height: 100%;
    
 }
-.lastpart2{
-    border: #e75480 10px solid ;
-    border-radius: 5px;
-    background-color: #e75480;
-    color: antiquewhite;
-    height: 100px;
-    width: 500px;
+.cmd{
     text-align: center;
-    margin-top: 5%;
-    margin-left: 34%;
+    border: #e75480 2px solid;
+    background-color: #e75480;
+    color: beige;
 }
+
 .foot{
     text-align: center;
 }
